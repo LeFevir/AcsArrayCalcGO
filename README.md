@@ -1,5 +1,9 @@
 # AcsArrayCalcGO
 
+Program for calculatino of acoustic field of multi-element arrays with piston elements on spherical surface.
+Source code includes Matlab scripts to present results.
+Origin date is 2012.
+
 Программа для расчета акустических поле	многоэлементных
 решеток с круглыми элементами, расположенными на сферической
 поверхности решетки.
